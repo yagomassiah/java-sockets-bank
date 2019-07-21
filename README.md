@@ -1,6 +1,6 @@
-# java-sockets-bank
+# java-sockets-bank 
 
-Esse repositório serve de exemplo para uma aplicação multi-thread usando uma simulação de um serviço de banco como exemplo. 
+Esse repositório serve de exemplo para uma aplicação multi-thread usando sockets. É feito uma simulação de um serviço de banco como exemplo. 
 Fique a vontade para tirar suas dúvidas comigo e usar o código de referência.
 
 Como rodar: 
